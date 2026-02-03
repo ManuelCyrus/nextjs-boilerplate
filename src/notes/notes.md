@@ -1,0 +1,6 @@
+
+
+modificar as msg de erro ou sucesso!... 
+
+//verificar o tocken antes de fazer login, para fazer login automatico!...
+// USAR O DECODED PARA VERIFICAR O TEMPO DO TOCKEN, OU A EXPIRACAO!
