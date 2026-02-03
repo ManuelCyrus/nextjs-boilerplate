@@ -3,7 +3,7 @@
 // pages/index.tsx
 import Script from "next/script";
 import Header from "@/components/Header";
-import Sidebar from "@/components/Sidebar";
+
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";

@@ -16,7 +16,6 @@ import {
 import { faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 
 import Header from "@/components/Header";
-import Sidebar from "@/components/Sidebar";
 import { Blocks, PlusCircle, ShoppingCart, Trash, XCircle } from "lucide-react";
 import DialogCompoent from "@/components/Dialog.component/Dialog.component";
 import { Input } from "@/components/ui/input";

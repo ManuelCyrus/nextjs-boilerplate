@@ -3,7 +3,6 @@
 import { useState } from "react";
 import Script from "next/script";
 import Header from "@/components/Header";
-import Sidebar from "@/components/Sidebar";
 
 export default function Devolucoes() {
   const [selectedItems, setSelectedItems] = useState<string[]>([]);
